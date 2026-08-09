@@ -1,4 +1,5 @@
 # 🌌 Gravity Nexus: Traveler's Odyssey
+## 🎮 [▶ PLAY THE GAME]  ( https://apeksha-296.github.io/gravity-nexus/ ) ##
 
 **Defy gravity. Explore everything. Survive the journey.**
 
